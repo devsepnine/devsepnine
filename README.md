@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=CozyCrate&fontSize=60&fontColor=000080&animation=fadeIn&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=CozyCrate&fontSize=60&fontColor=000080&animation=fadeIn&fontAlignY=50)
 
 <div align="center">
 

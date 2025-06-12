@@ -7,7 +7,7 @@
 
 </div>
 
-<div style="text-align: center">
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=devsepnine&theme=tokyonight&short_numbers=true&card_width=768)](https://git.io/streak-stats)
 

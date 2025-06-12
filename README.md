@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=CozyCrate&fontSize=60&fontColor=000080&animation=fadeIn&fontAlignY=45)
 
-<div style="text-align: center">
+<div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsepnine&show_icons=true&theme=tokyonight)](https://github.com/devsepnine/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsepnine&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

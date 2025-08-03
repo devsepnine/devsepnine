@@ -1,4 +1,8 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=HIBICanvas&fontSize=60&fontColor=000080&animation=fadeIn&fontAlignY=50)
+
+</div>
 
 <div align="center">
 

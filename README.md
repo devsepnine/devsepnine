@@ -59,5 +59,5 @@
 <hr />
 
 ![7800X3d](https://img.shields.io/badge/AMD-Ryzen_7_7800X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![4080](https://img.shields.io/badge/NVIDIA-RTX4080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![5090](https://img.shields.io/badge/NVIDIA-RTX5090-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
